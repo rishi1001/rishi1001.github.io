@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rishi Rajesh Shah"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rishi Rajesh Shah"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rishi Rajesh Shah"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Incoming MSML @ CMU"
+  location         : "Pittsburgh, PA"
+  employer         : "Carnegie Mellon University"
   uri              : # URL
   email            : "none@example.org" 
 
