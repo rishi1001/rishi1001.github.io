@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "Rishi Shah"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-myself this this this, work now, previous, jee, short
-
-# Rishi Shah
 
 Hi! I am Rishi Shah, an incoming MSML student at Carnegie Mellon University. Currently, I am working in Samsung Headquaters in South Korea. I work in the Generative AI team where my current project is to develop a fine-tuned LORA models over  Samsung' Stable Diffusion model to generate images of various themes based on user preferences. Previously, I worked on RAG based application to answer user's query in a conversational way from a given e-manual pdf. 
 
@@ -20,9 +17,9 @@ I am passionate about AI and its applications in various fields. I am looking fo
 Please feel free to reach out to me, if you have any queries or want to discuss anything. I am always open to new ideas and collaborations.
 
 
-## Work Experience
+# Work Experience
 
-### Samsung Electronics, South Korea
+## Samsung Electronics, South Korea
 **Research Engineer, Generative AI Team**  
 *September 2023 - Present*
 - Fine-tuned Samsung Gauss-i using LORA and Dreambooth for generating themed images for TV background.
@@ -45,22 +42,22 @@ Please feel free to reach out to me, if you have any queries or want to discuss 
 
 
 
-## Publications and Preprints
+# Publications and Preprints
 
-### NEUROCUT : Neural Approach for Robust Graph Partitioning
+## NEUROCUT : Neural Approach for Robust Graph Partitioning
 **KDD’24, Prof. Sayan Ranu**  
 *July 2022 - June 2023*
 - Designed a novel GNN based inductive architecture to find near-optimal solutions of cut related NP-hard problems.
 - Modelled an RL based auto-regressive framework using policy gradient methods to find the optimal partitions.
 - Developed framework generalizes to any cut objective and specified number of partitions, outperforming all baselines.
 
-### Packet Routing using Multi-Agent Reinforcement Learning
+## Packet Routing using Multi-Agent Reinforcement Learning
 **COMSNETS’23, Prof. Rajeev Shorey**  
 *January 2022 - July 2022*
 - Trained DDQNs for routing IoT data transmitted by a UAV network by implementing Multi-Agent RL.
 - Formulated a novel cross-agent reward function to achieve 48.7% throughput gain over baselines.
 
-### Price Forecasting of Agricultural Commodities
+## Price Forecasting of Agricultural Commodities
 **COMPASS’23, Prof. Aaditeshwar Seth**  
 *March 2021 - November 2021*
 - Built short-term price forecasting model for Cotton, Soybean prices using Temporal Convolutional Networks.
