@@ -21,7 +21,7 @@ repository               : "rishi1001/rishi1001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Rishi.png"
+  avatar           : "Rishi.jpg"
   name             : "Rishi Rajesh Shah"
   pronouns         : # example: "she/her"  
   bio              : "Incoming MSML @ CMU"
