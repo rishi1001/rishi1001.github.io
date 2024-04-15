@@ -9,7 +9,7 @@ author_profile: true
 ## Object-Centric Video Prediction
 
 - **Details:** Advanced ML, Prof. Sayan Ranu, Jan-Mar'23
-- **Links:** [GitHub](https://github.com/rishi1001/Object-Centric-VideoAnswering) | [Report](https://github.com/rishi1001/Object-Centric-VideoAnswering/blob/main/Report.pdf)
+- **Links:** [GitHub](https://github.com/rishi1001/Object-Centric-VideoPrediction) | [Report](https://github.com/rishi1001/Object-Centric-VideoAnswering/blob/main/Report.pdf)
 - Developed a novel frame prediction model using a structured graph-based latent representation of state dynamics.
 - Implemented an encoder-decoder architecture built upon attention based temporal network A3-TGCN.
 - Achieved enhanced prediction accuracy by integrating the Segment Anything model for segmentation and ResNet features for object tracking.

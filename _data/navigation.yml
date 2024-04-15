@@ -3,11 +3,11 @@ main:
   - title: "Projects"
     url: /projects/  
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
         
   - title: "Extra-Curriculars"
     url: /extra_curr/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
