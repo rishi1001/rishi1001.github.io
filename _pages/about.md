@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-Hi! I am Rishi Shah, an incoming MSML student at **Carnegie Mellon University**. Currently, I am working in **Samsung Headquaters** in South Korea. I work in the Generative AI team where my current project is to develop a fine-tuned LORA models over  Samsung' Stable Diffusion model to generate images of various themes based on user preferences. Previously, I worked on RAG based application to answer user's query in a conversational way from a given e-manual pdf. 
+Hi! I'm **Rishi Shah**, an incoming MSML student at **Carnegie Mellon University**. Currently, I'm working at **Samsung Headquarters** in South Korea, part of the **Generative AI** team. My current project involves developing fine-tuned LORA models over Samsung's Stable Diffusion model to generate images based on user preferences. Previously, I worked on a RAG-based application to provide conversational responses to user queries from e-manual PDFs.
 
-I graduated from **IIT-Delhi** in 2023 with a B.Tech in CSE, with a CGPA of 9.564. I was ranked AIR 75 in JEE Advanced 2019 and AIR 157 in JEE Mains 2019. During my time as an undergraduate, I worked with Prof. Sayan Ranu and Prof. Sourav Medya on my B.Tech thesis on developing NEUROCUT, a novel GNN based approach to extract cut from any graph that satisfy a given user objective. I have published works on multi-agent RL with Prof. Rajeev Shorey and on crop price forecasting with Prof. Aditeshwar Seth in my time at IIT-Delhi. I have developed various course projects related to computer vision, NLP, RL and GNN and have aced in those courses as well.
+I graduated from **IIT-Delhi** in 2023 with a B.Tech in **CSE**, achieving a CGPA of **9.564**. Notably, I ranked **AIR 75** in JEE Advanced 2019 and AIR 157 in JEE Mains 2019. During my undergraduate tenure, I collaborated with [Prof. Sayan Ranu](https://www.cse.iitd.ac.in/~sayan/) and [Prof. Sourav Medya](https://souravmedya.github.io/) on my B.Tech thesis, developing NEUROCUT, a novel GNN-based approach for graph cut extraction. Additionally, I've published works on multi-agent RL with [Prof. Rajeev Shorey](https://www.rajeevshorey.com/) and crop price forecasting with [Prof. Aditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/).
 
-I am passionate about AI and its applications in various fields. I am looking forward to working on cutting-edge research in the field of AI and ML. My goal is to develop AI agents leveraging multimodal AI to make human-life easier and more efficient. 
+Passionate about AI and its applications, I excel in areas such as **computer vision, NLP, RL, and GNN**. My goal is to contribute to cutting-edge research in AI and ML, focusing on developing AI agents leveraging multimodal AI to enhance human efficiency and convenience.
 
-Please feel free to reach out to me, if you have any queries or want to discuss anything. I am always open to new ideas and collaborations.
+Feel free to reach out to discuss collaborations or any queries you may have. I'm always open to new ideas and opportunities.
 
 
 # Work Experience
@@ -36,7 +36,7 @@ Please feel free to reach out to me, if you have any queries or want to discuss 
 **Data Science Intern, Query Search and Recommendation Engine**  
 *May 2021 - July 2021*
 - Worked on a multi-classification problem, fine-tuned fastText model to generate word embeddings.
-- Implemented a framework using \textbf{faiss} and \textbf{annoy} libraries to optimize \textbf{nearest neighbor} search for query embedding.
+- Implemented a framework using faiss and annoy libraries to optimize nearest neighbor search for query embedding.
 - Built a scalable architecture where batch of queries took 55 secs compared to baseline’s 140 mins.
 
 
