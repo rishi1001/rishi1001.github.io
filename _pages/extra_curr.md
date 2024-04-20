@@ -6,14 +6,14 @@ author_profile: true
 
 ## Leadership
 
-- Trend Research Group Lead, Samsung GenAI(Sept,2023 - Present): Weekly presentations on cutting-edge ML research
-- Cultural Secretary, Aravali Hostel, IITD (Jun, 2021 - May, 2022): Unanimously elected by 400 residents to
+- **Trend Research Group Lead, Samsung GenAI**(Sept,2023 - Present): Weekly presentations on cutting-edge ML research
+- **Cultural Secretary, Aravali Hostel, IITD** (Jun, 2021 - May, 2022): Unanimously elected by 400 residents to
 lead team of 12. Led hostel to BRCA General Championship 2022; Awarded Best Cultural Secretary,
 highest award for exemplary contribution.
-- Coordinator, Algorithms and Coding Club (August, 2021 - April, 2022): Actively involved in developing and
+- **Coordinator, Algorithms and Coding Club** (August, 2021 - April, 2022): Actively involved in developing and
 organizing Programming Contests and Coding Lectures at IITD.
-- Mentor, Board for Student Welfare (August, 2021 - Present): Mentoring 5 Freshmen at IITD.
-- Teaching Assistant for the course COL106(Data Structures and Algorithms) and managing a class of
+- **Mentor, Board for Student Welfare (August, 2021 - Present)**: Mentoring 5 Freshmen at IITD.
+- **Teaching Assistant** for the course COL106(Data Structures and Algorithms) and managing a class of
 around 300 students. Working on developing assignments and also conducting all the labs and doubt sessions.
 
 ## Extra-Curriculars
