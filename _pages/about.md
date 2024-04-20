@@ -40,7 +40,7 @@ Feel free to reach out to discuss collaborations or any queries you may have. I'
 - Built a scalable architecture where batch of queries took 55 secs compared to baseline’s 140 mins.
 
 
-
+<br>
 
 # Publications and Preprints
 
