@@ -21,14 +21,14 @@ repository               : "rishi1001/rishi1001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Rishi.jpg"
+  avatar           : "rishi_new.jpg"
   name             : "Rishi Rajesh Shah"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming MSML @ CMU"
+  bio              : "MSML @ CMU"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "rishishah@cmu.edu" 
+  email            : "rishisha@cs.cmu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

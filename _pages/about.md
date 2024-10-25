@@ -7,21 +7,32 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I'm **Rishi Shah**, a **Master's student in Machine Learning** at **Carnegie Mellon University**. Currently, I'm working with [Prof. Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/) on enhancing reasoning abilities in Vision Language Models (VLMs), aiming to bridge gaps in multimodal agent performance. My recent work includes developing adversarial attacks and improving the robustness of multi-modal closed-weight agents, with a paper submitted to **ICLR'25**.
 
-Hi! I'm **Rishi Shah**, an incoming MSML student at **Carnegie Mellon University**. Currently, I'm working at **Samsung Headquarters** in South Korea, part of the **Generative AI** team. My current project involves developing fine-tuned LORA models over Samsung's Stable Diffusion model to generate images based on user preferences. Previously, I worked on a RAG-based application to provide conversational responses to user queries from e-manual PDFs.
+Before CMU, I was part of the **Generative AI team at Samsung Headquarters** in South Korea, where I developed fine-tuned LoRA models for Samsung's Stable Diffusion, tailoring image generation to user preferences. I also implemented a retrieval-augmented generation (RAG) application to provide conversational responses from e-manual PDFs.
 
-I graduated from **IIT-Delhi** in 2023 with a B.Tech in **CSE**, achieving a CGPA of **9.564**. Notably, I ranked **AIR 75** in JEE Advanced 2019 and AIR 157 in JEE Mains 2019. During my undergraduate tenure, I collaborated with [Prof. Sayan Ranu](https://www.cse.iitd.ac.in/~sayan/) and [Prof. Sourav Medya](https://souravmedya.github.io/) on my B.Tech thesis, developing NEUROCUT, a novel GNN-based approach for graph cut extraction. Additionally, I've published works on multi-agent RL with [Prof. Rajeev Shorey](https://www.rajeevshorey.com/) and crop price forecasting with [Prof. Aditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/).
+I graduated from **IIT-Delhi** in 2023 with a B.Tech in **CSE** and a **CGPA of 9.564**. I achieved **AIR 75** in JEE Advanced 2019 and **AIR 157** in JEE Mains 2019. During my undergrad, I collaborated with [Prof. Sayan Ranu](https://www.cse.iitd.ac.in/~sayan/) and [Prof. Sourav Medya](https://souravmedya.github.io/) on my thesis, NEUROCUT, a novel GNN-based method for graph cut extraction. My other research includes multi-agent reinforcement learning with [Prof. Rajeev Shorey](https://www.rajeevshorey.com/) and crop price forecasting with [Prof. Aditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/).
 
-Passionate about AI and its applications, I excel in areas such as **computer vision, NLP, RL, and GNN**. My goal is to contribute to cutting-edge research in AI and ML, focusing on developing AI agents leveraging multimodal AI to enhance human efficiency and convenience.
+With a strong passion for **multimodals, computer vision, NLP, RL, and GNN**, I am driven to contribute to AI and ML research, focusing on developing intelligent, multimodal agents that enhance human efficiency and convenience.  
 
-Feel free to reach out to discuss collaborations or any queries you may have. I'm always open to new ideas and opportunities.
+Please feel free to reach out—I’m always open to collaborations and discussions!
+
+# Education
+
+## Masters in Machine Learning
+**Carnegie Mellon Univeristy** 
+*August 2024 - Present*
+
+## Bachelors in Computer Science
+**IIT-Delhi**  
+*July 2019 - May 2023*
 
 
 # Work Experience
 
 ## Samsung Electronics, South Korea
 **Research Engineer, Generative AI Team**  
-*September 2023 - Present*
+*September 2023 - August 2024*
 - Fine-tuned Samsung Gauss-i using LORA and Dreambooth for generating themed images for TV background.
 - Generated text-to-image datasets using prompt engineering and SDXL, filtered using CLIPScore and OpenCV tools.
 - Leveraging LLMs using Retrieval-Augmented Generation improving user experience on Bixby(AI bot).
