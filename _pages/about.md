@@ -55,22 +55,32 @@ Please feel free to reach out—I’m always open to collaborations and discussi
 
 # Publications and Preprints
 
+
+### Dissecting Adversarial Robustness of Multimodal LM Agents  
+**ICLR'25(Under Review), [Prof. Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/)**  
+*[May-Oct 2024]*  
+- Introduced the **ARE** framework to analyze adversarial robustness in **multimodal language model agents**.  
+- Demonstrated imperceptible image perturbations (<5% pixels) could achieve targeted attacks with a **67% success rate**.  
+- Quantified component impact, showing **evaluators** and **value functions** reduce ASR while vulnerabilities increase ASR.  
+- [GitHub Repository](https://github.com/rishi1001/agent_attack)
+
+
 ## NEUROCUT : Neural Approach for Robust Graph Partitioning
 **KDD’24, Prof. Sayan Ranu**  
-*July 2022 - June 2023*
+*[Jul 2022 - Jun 2023]*
 - Designed a novel GNN based inductive architecture to find near-optimal solutions of cut related NP-hard problems.
 - Modelled an RL based auto-regressive framework using policy gradient methods to find the optimal partitions.
 - Developed framework generalizes to any cut objective and specified number of partitions, outperforming all baselines.
 
 ## Packet Routing using Multi-Agent Reinforcement Learning
 **COMSNETS’23, Prof. Rajeev Shorey**  
-*January 2022 - July 2022*
+*[Jan-July 2022]*
 - Trained DDQNs for routing IoT data transmitted by a UAV network by implementing Multi-Agent RL.
 - Formulated a novel cross-agent reward function to achieve 48.7% throughput gain over baselines.
 
 ## Price Forecasting of Agricultural Commodities
 **COMPASS’23, Prof. Aaditeshwar Seth**  
-*March 2021 - November 2021*
+*[Mar-Nov 2021]*
 - Built short-term price forecasting model for Cotton, Soybean prices using Temporal Convolutional Networks.
 - Generated a spectrum of price predictions with associated confidence which outperformed baseline 74% of the time.
 
