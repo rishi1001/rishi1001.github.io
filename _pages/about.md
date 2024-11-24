@@ -64,20 +64,20 @@ Please feel free to reach out—I’m always open to collaborations and discussi
 - Quantified component impact, showing **evaluators** and **value functions** reduce ASR while vulnerabilities increase ASR.  
 
 
-## NEUROCUT : Neural Approach for Robust Graph Partitioning
+### NEUROCUT : Neural Approach for Robust Graph Partitioning
 **KDD’24, Prof. Sayan Ranu**  
 *[Jul 2022 - Jun 2023]*
 - Designed a novel GNN based inductive architecture to find near-optimal solutions of cut related NP-hard problems.
 - Modelled an RL based auto-regressive framework using policy gradient methods to find the optimal partitions.
 - Developed framework generalizes to any cut objective and specified number of partitions, outperforming all baselines.
 
-## Packet Routing using Multi-Agent Reinforcement Learning
+### Packet Routing using Multi-Agent Reinforcement Learning
 **COMSNETS’23, Prof. Rajeev Shorey**  
 *[Jan-July 2022]*
 - Trained DDQNs for routing IoT data transmitted by a UAV network by implementing Multi-Agent RL.
 - Formulated a novel cross-agent reward function to achieve 48.7% throughput gain over baselines.
 
-## Price Forecasting of Agricultural Commodities
+### Price Forecasting of Agricultural Commodities
 **COMPASS’23, Prof. Aaditeshwar Seth**  
 *[Mar-Nov 2021]*
 - Built short-term price forecasting model for Cotton, Soybean prices using Temporal Convolutional Networks.
