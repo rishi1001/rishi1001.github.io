@@ -62,7 +62,6 @@ Please feel free to reach out—I’m always open to collaborations and discussi
 - Introduced the **ARE** framework to analyze adversarial robustness in **multimodal language model agents**.  
 - Demonstrated imperceptible image perturbations (<5% pixels) could achieve targeted attacks with a **67% success rate**.  
 - Quantified component impact, showing **evaluators** and **value functions** reduce ASR while vulnerabilities increase ASR.  
-- [GitHub Repository](https://github.com/rishi1001/agent_attack)
 
 
 ## NEUROCUT : Neural Approach for Robust Graph Partitioning
