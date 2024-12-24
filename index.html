@@ -56,11 +56,53 @@
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
+            <tr onmouseout="are_stop()" onmouseover="are_start()" bgcolor="#ffffd0">
+              <td style="padding:16px;width:20%;vertical-align:middle">
+                <div class="one">
+                  <div class="two" id='are_image'><img src="images/are.png" width="160"></div>
+                </div>
+                <script type="text/javascript">
+                  function are_start() {
+                    document.getElementById('are_image').style.opacity = "1";
+                  }
+            
+                  function are_stop() {
+                    document.getElementById('are_image').style.opacity = "0";
+                  }
+                  are_stop()
+                </script>
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <a href="https://are-framework.github.io/">
+                  <span class="papertitle">Dissecting Adversarial Robustness of Multimodal LM Agents</span>
+                </a>
+                <br>
+                <a href="https://chenwu.io/">Chen Wu</a>,
+                <a href="https://rishishah.github.io/">Rishi Shah</a>,
+                <a href="https://jykoh.com/">Jing Yu Koh</a>,
+                <a href="https://www.cs.cmu.edu/~rsalakhu/">Ruslan Salakhutdinov</a>,
+                <a href="https://dpfried.github.io/">David Fried</a>,
+                <a href="https://www.cs.cmu.edu/~aditirag/">Aditi Raghunathan</a>
+                <br>
+                <em>ICLR'25</em>, advised by Prof. Aditi Raghunathan
+                <br>
+                <a href="attack-agent/index.html">project page</a>
+                /
+                <a href="https://arxiv.org/abs/2406.12814">arXiv</a>
+                <p></p>
+                <p>
+                  Explored adversarial robustness of Vision-enabled Language Models (VLMs) in multimodal agent tasks, exposing vulnerabilities to imperceptible image perturbations (&lt;5% pixels), enabling targeted attacks with 67% success rates.  
+      Proposed the Agent Robustness Evaluation (ARE) framework, which models agents as graphs, decomposing robustness and pinpointing vulnerabilities.  
+      Released VisualWebArena-Adv, a benchmark with 200 adversarial tasks, revealing that evaluators and value functions reduce ASR, while advanced agent techniques like tree search amplify vulnerabilities.
+                </p>
+              </td>
+            </tr>  
+
 
             <tr onmouseout="neurocut_stop()" onmouseover="neurocut_start()" bgcolor="#ffffd0">
               <td style="padding:16px;width:20%;vertical-align:middle">
                 <div class="one">
-                  <div class="two" id='neurocut_image'><img src="images/neurocut.jpg" width="160"></div>
+                  <div class="two" id='neurocut_image'><img src="images/neurocut.png" width="160"></div>
                 </div>
                 <script type="text/javascript">
                   function neurocut_start() {
@@ -88,7 +130,7 @@
                 <br>
                 <a href="https://neurocut.github.io/">project page</a>
                 /
-                <a href="https://arxiv.org/abs/2411.12345">arXiv</a>
+                <a href="https://arxiv.org/abs/2310.11787">arXiv</a>
                 <p></p>
                 <p>
                   Designed a novel GNN-based inductive architecture to find near-optimal solutions for cut-related NP-hard problems.  
@@ -96,50 +138,47 @@
                   The framework generalizes to any cut objective and specified number of partitions, outperforming all baselines.
                 </p>
               </td>
-            </tr>   
-
-
-            <tr onmouseout="are_stop()" onmouseover="are_start()" bgcolor="#ffffd0">
+            </tr>
+            
+            <tr onmouseout="marl_stop()" onmouseover="marl_start()" bgcolor="#e6f2ff">
               <td style="padding:16px;width:20%;vertical-align:middle">
                 <div class="one">
-                  <div class="two" id='are_image'><img src="images/are.jpg" width="160"></div>
+                  <div class="two" id="marl_image"><img src="images/mapr.png" width="160"></div>
                 </div>
                 <script type="text/javascript">
-                  function are_start() {
-                    document.getElementById('are_image').style.opacity = "1";
+                  function marl_start() {
+                    document.getElementById('marl_image').style.opacity = "1";
                   }
             
-                  function are_stop() {
-                    document.getElementById('are_image').style.opacity = "0";
+                  function marl_stop() {
+                    document.getElementById('marl_image').style.opacity = "0";
                   }
-                  are_stop()
+                  marl_stop();
                 </script>
               </td>
               <td style="padding:8px;width:80%;vertical-align:middle">
-                <a href="https://are-framework.github.io/">
-                  <span class="papertitle">Dissecting Adversarial Robustness of Multimodal LM Agents</span>
+                <a href="https://github.com/rishi1001/MARL-Packet-Router">
+                  <span class="papertitle">Packet Routing using Multi-Agent Reinforcement Learning</span>
                 </a>
                 <br>
-                <a href="https://chenwu.io/">Chen Wu</a>,
-                <a href="https://rishishah.github.io/">Rishi Shah</a>,
-                <a href="https://jykoh.com/">Jing Yu Koh</a>,
-                <a href="https://www.cs.cmu.edu/~rsalakhu/">Ruslan Salakhutdinov</a>,
-                <a href="https://dpfried.github.io/">David Fried</a>,"
-                <a href="https://www.cs.cmu.edu/~aditirag/">Aditi Raghunathan</a>
+                <a href="https://www.linkedin.com/in/aniket-modi-985470190/">Aniket Modi</a>,
+                <a href="https://rishi1001.github.io/">Rishi Shah</a>,
+                <a href="https://www.linkedin.com/in/krishnanshu-jain-225140218/">Krishnanshu Jain</a>,
+                <a href="https://www.cse.iitd.ac.in/~srajeev/index.html">Rajeev Shorey</a>
                 <br>
-                <em>NeurIPS OWA Workshop’24</em>, advised by Prof. Aditi Raghunathan
+                <em>COMSNETS’23</em>, advised by Prof. Rajeev Shorey
                 <br>
-                <a href="attack-agent/index.html">project page</a>
+                <a href="https://github.com/rishi1001/MARL-Packet-Router">GitHub</a>
                 /
-                <a href="https://openreview.net/forum?id=LjVIGva5Ct">arXiv</a>
+                <a href="https://ieeexplore.ieee.org/document/10041337">IEEE Page</a>
                 <p></p>
                 <p>
-                  Explored adversarial robustness of Vision-enabled Language Models (VLMs) in multimodal agent tasks, exposing vulnerabilities to imperceptible image perturbations (&lt;5% pixels), enabling targeted attacks with 67% success rates.  
-      Proposed the Agent Robustness Evaluation (ARE) framework, which models agents as graphs, decomposing robustness and pinpointing vulnerabilities.  
-      Released VisualWebArena-Adv, a benchmark with 200 adversarial tasks, revealing that evaluators and value functions reduce ASR, while advanced agent techniques like tree search amplify vulnerabilities.
+                  Developed a Multi-Agent RL framework to optimize packet routing in UAV-based IoT networks.  
+                  Designed and trained DDQNs with a novel cross-agent reward function to enhance collaboration among agents.  
+                  Achieved a <b>48.7% throughput gain</b> over baseline methods, demonstrating significant efficiency improvements.
                 </p>
               </td>
-            </tr>                     
+            </tr>
 
           
 					<table style="width:100%; margin:0 auto; border:0; border-spacing:0; padding:16px;"><tbody>
@@ -160,11 +199,9 @@
 								 </div>
               </td>
               <td style="padding:8px;width:80%;vertical-align:center">
-                <a href="http://inst.eecs.berkeley.edu/~cs188/sp11/announcements.html">Graduate Student Instructor, CS188 Spring 2011</a>
+                <a href="https://llmsystem.github.io/llmsystem2025spring/">Teaching Assistant, 11868 LLM Systems, Spring'25, CMU</a>
                 <br>
-                <a href="http://inst.eecs.berkeley.edu/~cs188/fa10/announcements.html">Graduate Student Instructor, CS188 Fall 2010</a>
-                <br>
-                <a href="http://aima.cs.berkeley.edu/">Figures, "Artificial Intelligence: A Modern Approach", 3rd Edition</a>
+                <a href="https://web.iitd.ac.in/~keerti/Courses/COL106-2023.htm">Teaching Assistant, COL106 Data Structures and Algorithms, Spring'23, IITD </a>
               </td>
             </tr>
             
